@@ -1,1 +1,2 @@
+This project implements a multi-agent system using Retrieval-Augmented Generation (RAG). It breaks down user queries, retrieves relevant information, generates answers, and evaluates those answer.
 ![Image](images/Multiagent.png)
