@@ -1,2 +1,2 @@
-This project implements a multi-agent system using Retrieval-Augmented Generation (RAG). It breaks down user queries, retrieves relevant information, generates answers, and evaluates those answer.
+This repository implements multiple Retrieval-Augmented Generation (RAG) approaches.
 ![Image](images/Multiagent.png)
