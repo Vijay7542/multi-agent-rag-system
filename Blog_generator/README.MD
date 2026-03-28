@@ -1,8 +1,7 @@
-A simple multi-agent blog generation system built using LangGraph, LangChain, Tavily Search, and RAG (Retrieval-Augmented Generation) from a local PDF.
+A Simple-agent blog generation system built using LangGraph,Langchain,Tavily Search, and RAG from a local PDF.
 
-This project takes a user topic, researches it using:
-
+This Project takes a user topic,researches it using:
 Web search (Tavily)
 Internal PDF knowledge base
 
-Then generates a well-structured blog using a separate writing agent.
+Then generates a well-structured bolg using a separate writing agent.
